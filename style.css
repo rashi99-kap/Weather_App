@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.weather-container{
+    background-color: rgb(162, 214, 236);
+    width: fit-content;
+     padding-left: 40px;      /* Adds extra space on the left side */
+  padding-right: 40px;     /* Adds extra space on the right side */
+  box-sizing: border-box; 
+   
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(39, 42, 240, 0.15);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.input-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+}
+
+#searchBtn{
+    
+    color: blue;
+    border-radius: 5px;
+    border: 2px solid #2348cf;
+        
+}
+
+.weatherInfo-container {
+   
+    flex-direction: column;
+    gap: 2px;
+    margin: 5px 0;    
+    display: none; 
+ 
+}
