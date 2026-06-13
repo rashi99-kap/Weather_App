@@ -68,4 +68,9 @@ https://rashi99-kap.github.io/Weather_App/
 Rashi Kapse
 
 
+## Screenshot
+
+![Weather App Screenshot](Screenshot 2026-06-12 161549.png)
+
+
 
