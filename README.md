@@ -1,0 +1,2 @@
+# Weather_App
+A weather application built with HTML, CSS, and JavaScript that fetches real-time weather data using the Open-Meteo API.
